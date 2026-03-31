@@ -53,6 +53,15 @@ function MyProjects() {
         "",
       homepage: "https://herreriapistone.com/",
     },
+    {
+      id: 2,
+      name: "RemerIAs - sublimados estampados",
+      description:
+        "Remeras únicas creadas con inteligencia artificial y sublimadas con calidad. Personaliza tu estilo con creatividad y tecnología.",
+      html_url:
+        "",
+      homepage: "https://remer-i-as-react.vercel.app/",
+    },
   ];
 
   return (
