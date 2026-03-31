@@ -138,6 +138,12 @@
 .service-item:hover .seventh-service-icon2 {
     background-image: url("../../assets/images/figma-icon-black.png");
 }
+.service-item .eigth-service-icon {
+    background-image: url("../../assets/images/seo-icon.png");
+}
+.service-item:hover .eigth-service-icon {
+    background-image: url("../../assets/images/seo-icon-black.png");
+}
 
 .btn-certificado {
   display: inline-block;

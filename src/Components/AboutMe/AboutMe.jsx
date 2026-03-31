@@ -7,7 +7,7 @@ function AboutMe() {
                     <div className="section-heading">
                         <h2>Sobre Mi</h2>
                         <div className="line-dec"></div>
-                        <p>Soy desarrollador <strong>Front end web</strong> y de <strong>aplicaciones</strong> de Argentina. Tengo 4 certificaciones y <strong>1 año de experiencia</strong> en desarrollo. Disfruto sumergirme en el código, resolver errores y crear nuevas funcionalidades. <br/> ¡Estaré encantado de ser parte de tu próximo proyecto! <br/> No dudes en enviarme un mensaje. 📨</p>
+                        <p>Soy desarrollador <strong>Front end web</strong> y de <strong>aplicaciones</strong> de Argentina. Tengo 6 certificaciones y <strong>1 año de experiencia</strong> en desarrollo. Disfruto sumergirme en el código, resolver errores y crear nuevas funcionalidades. <br/> ¡Estaré encantado de ser parte de tu próximo proyecto! <br/> No dudes en enviarme un mensaje. 📨</p>
                         <p>Logros Destacados: 🌟</p>
                         <p>🎓 Cursos finalizados con promedio 10.</p>
                         <p>🚀 Lideré mi equipo en la Codicon 2024.</p>

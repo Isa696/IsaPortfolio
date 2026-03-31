@@ -6,6 +6,7 @@ import reactCertificate from "../../assets/images/react-certificate.png";
 import nativeCertificate from "../../assets/images/native-certificate.png";
 import pyCertificate from "../../assets/images/py-certificate.pdf";
 import uxUiCertificate from "../../assets/images/ux-ui-certificate.pdf";
+import seoCertificate from "../../assets/images/seo-certificate.pdf";
 
 function Techs() {
 
@@ -70,6 +71,13 @@ function Techs() {
                             accordionText={'– Problema, objetivo y solución centrados en usuarios reales\n– MVP validado con ajustes iterativos\n– User Personas + Empathy Map\n– User Flow optimizado\n– Wireframes y mockups en alta fidelidad\n– Proyecto final publicado en Behance'}
                             certificate={uxUiCertificate}
                             projectLink={"https://www.behance.net/gallery/233368813/EntrenApp-CURSO-UX-UI-Isaias-Romero"}
+                        />
+                        <TechsAccordion
+                            title={"SEO"}
+                            logo={"eigth-service-icon service-icon"}
+                            accordionText={'– Keyword Research (Investigación de palabras clave)\n– SEO On Page\n– SEO Off Page\n– Core Web Vitals y rendimiento (Lighthouse)\n– Arquitectura web y SEO técnico\n– Análisis de métricas (Analytics / Search Console)\n– Estrategia de contenido SEO'}
+                            certificate={seoCertificate}
+                            projectLink={"https://docs.google.com/document/d/1Zasi2aWHuxJkCHlHKwvy_YycJk21CAkW/edit?usp=sharing&ouid=115756634475299524451&rtpof=true&sd=true"}
                         />
 
                     </div>
